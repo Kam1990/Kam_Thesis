@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+#Do not sync with Github
+/data/
+#/cache/
+.httr-oauth
